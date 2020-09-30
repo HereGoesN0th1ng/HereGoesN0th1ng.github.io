@@ -82,7 +82,7 @@ li a:hover:not(.active) {
   background-size: cover;
 }
 .bgimg-5 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/informatica/html.css/CKV/beethoven.jpg");
+  background-image: url("z5.jfif");
   min-height: 600px;
   opacity: 0.65;
   background-attachment: fixed;
@@ -100,7 +100,7 @@ li a:hover:not(.active) {
   background-size: cover;
 }
 .bgimg-7 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/informatica/html.css/CKV/stonis.jpg");
+  background-image: url("z7.jpg");
   min-height: 600px;
   opacity: 0.65;
   position: relative;
