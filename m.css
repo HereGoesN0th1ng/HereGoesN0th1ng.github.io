@@ -43,7 +43,7 @@ li a:hover:not(.active) {
 
 }
 .bgimg-1 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/GitHub/HereGoesN0th1ng.github.io/z1.jpg");
+  background-image: url("z1.jpg");
   min-height: 700px;
   opacity: 0.65;
   background-attachment: fixed;
@@ -53,7 +53,7 @@ li a:hover:not(.active) {
 }
 
 .bgimg-2 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/GitHub/HereGoesN0th1ng.github.io/z2.jpg");
+  background-image: url("z2.jpg");
   min-height: 600px;
   position: relative;
   opacity: 0.65;
@@ -64,7 +64,7 @@ li a:hover:not(.active) {
 }
 
 .bgimg-3 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/GitHub/HereGoesN0th1ng.github.io/z3.png");
+  background-image: url("z3.png");
   min-height: 600px;
   opacity: 0.65;
   background-attachment: fixed;
@@ -73,7 +73,7 @@ li a:hover:not(.active) {
   background-size: cover;
 }
 .bgimg-4 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/GitHub/HereGoesN0th1ng.github.io/z4.jpg");
+  background-image: url("z4.jpg");
   min-height: 600px;
   opacity: 0.65;
   background-attachment: fixed;
@@ -91,7 +91,7 @@ li a:hover:not(.active) {
   background-size: cover;
 }
 .bgimg-6 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/GitHub/HereGoesN0th1ng.github.io/z6.jpg");
+  background-image: url("z6.jpg");
   min-height: 600px;
   opacity: 0.65;
   background-attachment: fixed;
@@ -112,7 +112,7 @@ li a:hover:not(.active) {
 
 }
 .bgimg-8 {
-  background-image: url("file:///C:/Users/stein/OneDrive/Documents/GitHub/HereGoesN0th1ng.github.io/z8.png");
+  background-image: url("z8.png");
   min-height: 700px;
   opacity: 0.65;
   position: relative;
